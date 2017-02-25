@@ -1,0 +1,84 @@
+/*CSS reset settings here*/
+*{
+ margin: 0px;
+ padding: 0px;
+}
+span{
+	color: #6F68D3;
+}
+#wrapper{
+width: 970px;
+background-color: #1D355C;
+margin: 0px auto;
+padding: 15px;
+
+}
+#header{
+background-color: #CC323B;
+
+
+margin-top: 5px;
+
+border-radius: 10px;
+color: #C3D6EB;
+padding: 12px 20px;
+
+}
+#navigation{
+ width: 140px;
+ 
+ background-color: #2F7D8B;
+ display: inline-block;
+ vertical-align: top;
+ margin-top: 20px;
+ font-size: 12px;
+ color: #64CDDA;
+ border-radius: 20px;
+ padding: 25px;
+
+}
+li
+{
+	margin-left: 15px;
+
+}
+#main_content{
+ width: 700px;
+ background-color: #0F1822;
+ display: inline-block;
+ padding: 14px;
+ color: #C3D6EB;
+ border-radius: 30px;
+ margin-right: 15px;
+ margin-top: 20px;
+ margin-left: 20px;
+ vertical-align:top;
+}
+#main_content ul{
+	margin-left: 20px;
+}
+p {
+	font-size: 12px; 
+}
+a
+{
+	color: #64CFDA;
+}
+#footer{
+height: 50px;
+width: 925px;
+margin-top: 15px;
+padding-left: 10px;
+background-color: #5E6672;
+border-radius: 13px;
+color: white;
+
+}
+
+}
+.ulist {
+	margin-right: 5px;
+}
+.main_list{
+
+}
